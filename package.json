@@ -1,0 +1,23 @@
+{
+  "name": "fccthegurukul",
+  "version": "1.0.0",
+  "description": "This is an offline coaching website, generally it is designed to manage offline data. But seeing the trend of online studies, offline coaching is ready to be replaced online, so that the students can pass their studies easily and get access to the study material quickly.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/07mvpn/fccthegurukul.git"
+  },
+  "keywords": [
+    "Education"
+  ],
+  "author": "MK Sahani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/07mvpn/fccthegurukul/issues"
+  },
+  "homepage": "https://github.com/07mvpn/fccthegurukul#readme"
+}
